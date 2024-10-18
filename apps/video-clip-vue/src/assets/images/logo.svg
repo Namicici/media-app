@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="55px" height="26px" viewBox="0 0 55 26" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.2 (57519) - http://www.bohemiancoding.com/sketch -->
+    <title>logo</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="rgb(201, 106, 34)" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="logo" transform="translate(1.000000, 1.000000)">
+            <g>
+                <g>
+                    <circle id="Oval" stroke="rgb(201, 106, 34)" cx="12" cy="12" r="12"></circle>
+                    <circle id="Oval" stroke="rgb(201, 106, 34)" cx="41" cy="12" r="12"></circle>
+                    <ellipse id="Oval-2" stroke="rgb(201, 106, 34)" fill="rgb(201, 106, 34)" cx="4" cy="12" rx="4" ry="6"></ellipse>
+                    <ellipse id="Oval-2" stroke="rgb(201, 106, 34)" fill="rgb(201, 106, 34)" cx="49" cy="12" rx="4" ry="6"></ellipse>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
